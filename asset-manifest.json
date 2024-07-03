@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KartikPatil/static/css/main.032cc687.css",
-    "main.js": "/KartikPatil/static/js/main.435a9e18.js",
+    "main.css": "/KartikPatil/static/css/main.662a6aaf.css",
+    "main.js": "/KartikPatil/static/js/main.df1f2ff2.js",
     "static/js/453.419a5d54.chunk.js": "/KartikPatil/static/js/453.419a5d54.chunk.js",
     "index.html": "/KartikPatil/index.html",
-    "main.032cc687.css.map": "/KartikPatil/static/css/main.032cc687.css.map",
-    "main.435a9e18.js.map": "/KartikPatil/static/js/main.435a9e18.js.map",
+    "main.662a6aaf.css.map": "/KartikPatil/static/css/main.662a6aaf.css.map",
+    "main.df1f2ff2.js.map": "/KartikPatil/static/js/main.df1f2ff2.js.map",
     "453.419a5d54.chunk.js.map": "/KartikPatil/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.032cc687.css",
-    "static/js/main.435a9e18.js"
+    "static/css/main.662a6aaf.css",
+    "static/js/main.df1f2ff2.js"
   ]
 }
